@@ -60,12 +60,12 @@ namespace TestDb
             "sum(IIF(month(DOCUMENT.DOC_DATE) = 3, DOCUMENT.SUM, 0)) as Март, " +
             "sum(IIF(month(DOCUMENT.DOC_DATE) = 4, DOCUMENT.SUM, 0)) as Апрель, " +
             "sum(IIF(month(DOCUMENT.DOC_DATE) = 5, DOCUMENT.SUM, 0)) as Май, " +
-            "sum(IIF(month(DOCUMENT.DOC_DATE) = 5, DOCUMENT.SUM, 0)) as Июнь, " +
-            "sum(IIF(month(DOCUMENT.DOC_DATE) = 5, DOCUMENT.SUM, 0)) as Июль, " +
-            "sum(IIF(month(DOCUMENT.DOC_DATE) = 5, DOCUMENT.SUM, 0)) as Август," +
-            "sum(IIF(month(DOCUMENT.DOC_DATE) = 5, DOCUMENT.SUM, 0)) as Сентябрь," +
-            "sum(IIF(month(DOCUMENT.DOC_DATE) = 5, DOCUMENT.SUM, 0)) as Октябрь, " +
-            "sum(IIF(month(DOCUMENT.DOC_DATE) = 5, DOCUMENT.SUM, 0)) as Ноябрь, " +
+            "sum(IIF(month(DOCUMENT.DOC_DATE) = 6, DOCUMENT.SUM, 0)) as Июнь, " +
+            "sum(IIF(month(DOCUMENT.DOC_DATE) = 7, DOCUMENT.SUM, 0)) as Июль, " +
+            "sum(IIF(month(DOCUMENT.DOC_DATE) = 8, DOCUMENT.SUM, 0)) as Август," +
+            "sum(IIF(month(DOCUMENT.DOC_DATE) = 9, DOCUMENT.SUM, 0)) as Сентябрь," +
+            "sum(IIF(month(DOCUMENT.DOC_DATE) = 10, DOCUMENT.SUM, 0)) as Октябрь, " +
+            "sum(IIF(month(DOCUMENT.DOC_DATE) = 11, DOCUMENT.SUM, 0)) as Ноябрь, " +
             "sum(IIF(month(DOCUMENT.DOC_DATE) = 12, DOCUMENT.SUM, 0)) as Декабрь " +
             "from DOCUMENT, Firm " +
             "where DOCUMENT.firm_id =  Firm.Firm_id and Firm.Firm_id = " + comboBox3.SelectedValue.ToString() + " " +
