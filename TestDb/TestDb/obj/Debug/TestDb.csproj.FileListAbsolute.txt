@@ -1,0 +1,20 @@
+C:\Users\Администратор\source\repos\TestDb\TestDb\obj\Debug\TestDb.csprojAssemblyReference.cache
+C:\Users\Администратор\source\repos\TestDb\TestDb\obj\Debug\TestDb.Form1.resources
+C:\Users\Администратор\source\repos\TestDb\TestDb\obj\Debug\TestDb.Properties.Resources.resources
+C:\Users\Администратор\source\repos\TestDb\TestDb\obj\Debug\TestDb.csproj.GenerateResource.cache
+C:\Users\Администратор\source\repos\TestDb\TestDb\obj\Debug\TestDb.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\source\repos\TestDb\TestDb\bin\Debug\TestDb.exe.config
+C:\Users\Администратор\source\repos\TestDb\TestDb\bin\Debug\TestDb.exe
+C:\Users\Администратор\source\repos\TestDb\TestDb\bin\Debug\TestDb.pdb
+C:\Users\Администратор\source\repos\TestDb\TestDb\obj\Debug\TestDb.exe
+C:\Users\Администратор\source\repos\TestDb\TestDb\obj\Debug\TestDb.pdb
+C:\Users\Администратор\Desktop\Тестовое ЧТПЗ\TestDb\TestDb\bin\Debug\TestDb.exe.config
+C:\Users\Администратор\Desktop\Тестовое ЧТПЗ\TestDb\TestDb\bin\Debug\TestDb.exe
+C:\Users\Администратор\Desktop\Тестовое ЧТПЗ\TestDb\TestDb\bin\Debug\TestDb.pdb
+C:\Users\Администратор\Desktop\Тестовое ЧТПЗ\TestDb\TestDb\obj\Debug\TestDb.csprojAssemblyReference.cache
+C:\Users\Администратор\Desktop\Тестовое ЧТПЗ\TestDb\TestDb\obj\Debug\TestDb.Form1.resources
+C:\Users\Администратор\Desktop\Тестовое ЧТПЗ\TestDb\TestDb\obj\Debug\TestDb.Properties.Resources.resources
+C:\Users\Администратор\Desktop\Тестовое ЧТПЗ\TestDb\TestDb\obj\Debug\TestDb.csproj.GenerateResource.cache
+C:\Users\Администратор\Desktop\Тестовое ЧТПЗ\TestDb\TestDb\obj\Debug\TestDb.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Desktop\Тестовое ЧТПЗ\TestDb\TestDb\obj\Debug\TestDb.exe
+C:\Users\Администратор\Desktop\Тестовое ЧТПЗ\TestDb\TestDb\obj\Debug\TestDb.pdb
